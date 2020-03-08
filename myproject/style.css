@@ -1,0 +1,44 @@
+.mytitle {
+    color: white;
+    text-align: center;
+    background-image: url('http://www.forest.go.kr/newkfsweb/cmm/fms/FileDown.do?atchFileId=FILE_000000010008639&fileSn=0');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.width500 {
+    width: 500px;
+    background-color: red;
+}
+
+.container-600 {
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: #17a2b8;
+}
+
+.wrap {
+    width: 900px;
+    height: 1200px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.inner1 {
+    border: 2px solid red;
+    height: 400px;
+}
+
+.inner2 {
+    border: 2px solid yellow;
+    height: 600px;
+    margin-top: 50px;
+}
+
+
+
+
